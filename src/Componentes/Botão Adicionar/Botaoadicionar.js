@@ -17,8 +17,8 @@ const BotaoAdicionar = ({ onClick }) => {
                 fontWeight: 500,
                 width: '4rem',
                 height: '4rem',
-                top: '90%',
-                left: '95%'
+                bottom: '2rem', 
+                right: '2rem'
             }}>
       +
     </button>
